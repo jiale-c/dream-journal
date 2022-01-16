@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Dream Journal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This web application project that is self taught with the guidance of online tutorials on youtube. <br>
+A fun and short project developed over the winter break 2021. <br>
+Live version of the web application can be found [here](https://dream-journal-bc782.web.app/). <br>
+Bootstrapped with [Create React App](https://github.com/facebook/create-react-app) with FireBase server as the back-end database. <br>
+Deployed using firebase hosting service. 
 
-## Available Scripts
+## Motivation and User Stories
 
-In the project directory, you can run:
+I believe that most people's creative ideas and inspirations are influenced by their thoughts and dreams. However, most people do forget their dreams once they wake up from the sleep. I personally would like to remember them to give myself the inspiration I need when drawing. Dreams are also great storytelling episodes for friends and families. 
+Writing the dreams down on paper or in the notes app on our phones may not be the best way to organise them. A one stop site to store them seems more organised. 
+This web application is based on my personal wants for a dream-tracking system. I
 
-### `npm start`
+### Aim
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ hope this application is a simple to use site to note down our valuable dreams.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Features
+Feature | Description
+------------ | -------------
+Authentication | To keep user's dreams private to prevent others from reading, I have utilised firebase authentication login/sign up features to categorise the dreams to the respective dreamer. 
+Update Profile | To allow users to update their account password or email to have secure access to their dashboard. 
+Favourite | A toggle-able feature for individual dreams to mark them as a favourite in order to get back at it for higher references.
+Add | A add dream feature to add new dreams with a dream header, details and date specification on it. 
+Delete | Allow users to remove any dreams if needed.
 
-### `npm test`
+### Overview
+<p float="left">
+ ![Screenshot 2022-01-16 at 2 08 09 PM](https://user-images.githubusercontent.com/77206005/149649391-2a149b40-1d30-463e-b0b9-2fd2667a69a7.png)
+![Screenshot 2022-01-16 at 2 08 32 PM](https://user-images.githubusercontent.com/77206005/149649400-8ac1e484-557a-4a74-9f87-4a90cb02456a.png)
+![Screenshot 2022-01-16 at 2 08 43 PM](https://user-images.githubusercontent.com/77206005/149649403-55c2bd32-a76f-48d0-89ad-111a95ee56d7.png)
+![Screenshot 2022-01-16 at 2 08 55 PM](https://user-images.githubusercontent.com/77206005/149649406-e21729dc-654b-4edd-9f26-da432e063945.png)
+![Screenshot 2022-01-16 at 2 09 09 PM](https://user-images.githubusercontent.com/77206005/149649408-876e07d6-1f6f-43ad-9bad-808578c8bfdb.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### Credits
+I would like to thank bradtraversy and other youtubers that helped me with answering my queries when deveoping this project. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+BradTraversy | React JS Crash Course | https://www.youtube.com/watch?v=Xe0eZ7OnpYM
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Dev World | Firebase Tutorial - How to Set Up and Deploy with ReactJS | https://www.youtube.com/watch?v=1wZw7RvXPRU
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Web Dev Simplified | React Authentication Crash Course With Firebase And Routing | https://www.youtube.com/watch?v=PKwu15ldZ7k
