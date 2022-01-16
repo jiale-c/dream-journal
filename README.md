@@ -12,11 +12,11 @@ I believe that most people's creative ideas and inspirations are influenced by t
 Writing the dreams down on paper or in the notes app on our phones may not be the best way to organise them. A one stop site to store them seems more organised. 
 This web application is based on my personal wants for a dream-tracking system. I
 
-### Aim
+## Aim
 
  hope this application is a simple to use site to note down our valuable dreams.
 
-### Features
+## Features
 Feature | Description
 ------------ | -------------
 Authentication | To keep user's dreams private to prevent others from reading, I have utilised firebase authentication login/sign up features to categorise the dreams to the respective dreamer. 
@@ -25,7 +25,7 @@ Favourite | A toggle-able feature for individual dreams to mark them as a favour
 Add | A add dream feature to add new dreams with a dream header, details and date specification on it. 
 Delete | Allow users to remove any dreams if needed.
 
-### Overview
+## Overview
 <p float="left">
 <img src="https://user-images.githubusercontent.com/77206005/149649391-2a149b40-1d30-463e-b0b9-2fd2667a69a7.png" width="300">
 <img src="https://user-images.githubusercontent.com/77206005/149649400-8ac1e484-557a-4a74-9f87-4a90cb02456a.png" width="300">
@@ -33,7 +33,7 @@ Delete | Allow users to remove any dreams if needed.
 <img src="https://user-images.githubusercontent.com/77206005/149649406-e21729dc-654b-4edd-9f26-da432e063945.png" width="300">
 <img src="https://user-images.githubusercontent.com/77206005/149649408-876e07d6-1f6f-43ad-9bad-808578c8bfdb.png" width="300">
 
-### Credits
+## Credits
 I would like to thank bradtraversy and other youtubers that helped me with answering my queries when deveoping this project. 
 
 BradTraversy | React JS Crash Course | https://www.youtube.com/watch?v=Xe0eZ7OnpYM
