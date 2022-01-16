@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "My first dream entry",
+      "details": "My first dream entry",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "My scariest dream entry",
+      "details": "My first dream entry",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Take me home",
+      "details": "My first dream entry",
+      "day": "5th Feb",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "hihihi",
+      "details": "i love school",
+      "day": "2022-01-05",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
