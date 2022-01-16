@@ -10,7 +10,7 @@ Deployed using firebase hosting service.
 
 I believe that most people's creative ideas and inspirations are influenced by their thoughts and dreams. However, most people do forget their dreams once they wake up from the sleep. I personally would like to remember them to give myself the inspiration I need when drawing. Dreams are also great storytelling episodes for friends and families. 
 Writing the dreams down on paper or in the notes app on our phones may not be the best way to organise them. A one stop site to store them seems more organised. 
-This web application is based on my personal wants for a dream-tracking system. I
+This web application is based on my personal wants for a dream-tracking system.
 
 ## Aim
 
