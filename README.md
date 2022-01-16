@@ -27,7 +27,7 @@ Delete | Allow users to remove any dreams if needed.
 
 ### Overview
 <p float="left">
- ![Screenshot 2022-01-16 at 2 08 09 PM](https://user-images.githubusercontent.com/77206005/149649391-2a149b40-1d30-463e-b0b9-2fd2667a69a7.png)
+<img src="https://user-images.githubusercontent.com/77206005/149649391-2a149b40-1d30-463e-b0b9-2fd2667a69a7.png" width="200">
 ![Screenshot 2022-01-16 at 2 08 32 PM](https://user-images.githubusercontent.com/77206005/149649400-8ac1e484-557a-4a74-9f87-4a90cb02456a.png)
 ![Screenshot 2022-01-16 at 2 08 43 PM](https://user-images.githubusercontent.com/77206005/149649403-55c2bd32-a76f-48d0-89ad-111a95ee56d7.png)
 ![Screenshot 2022-01-16 at 2 08 55 PM](https://user-images.githubusercontent.com/77206005/149649406-e21729dc-654b-4edd-9f26-da432e063945.png)
